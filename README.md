@@ -1,1 +1,2 @@
 # Blockchain
+Blockchains are data structures where blocks are inextricably linked. What makes blockchains so special is the level of security they offer due to the way they are constructed. Blockchains are unhackable, so it makes perfect sense why cryptocurrency uses this technology. In this project, you will try to create a microcosm where virtual miners earn cryptocurrencies and exchange messages and transactions using the blockchain. As difficult as the project might be, it is bound to pay off: not in cryptocurrency, but in knowledge and skills.
